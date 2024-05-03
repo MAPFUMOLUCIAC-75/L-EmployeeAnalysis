@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Read the dataset from Excel
-data = pd.read_csv(r'C:Employee-Performance--main/Employee-Performance--main/Employyee system/employee recordss.csv')
+data = pd.read_csv(r'C:\Users\HP\Downloads\New folder\Employee-Performance--main\Employee-Performance--main\Employyee system')
 
 
 # Page title
