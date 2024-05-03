@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Read the dataset from Excel
-data = pd.read_csv("C:\Users\HP\Downloads\New folder\Employee-Performance--main\Employee-Performance--main\Employyee system")
+data = pd.read_csv("Employee-Performance--main/Employee-Performance--main/Employyee system/employee recordss.csv")
 
 # Page title
 st.title('Employee data Statistics')
